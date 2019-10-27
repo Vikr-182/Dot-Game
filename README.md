@@ -1,5 +1,6 @@
 # Dot Game
 Simple game implemented using pygame library 
+![gameplay][./simple]
 
 ## Run
 - `$ python3 figure.py` <br/>
